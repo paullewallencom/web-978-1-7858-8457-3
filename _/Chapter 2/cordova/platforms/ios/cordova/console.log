@@ -1,0 +1,128 @@
+2015-06-01 10:29:57.866 TodoApp[39547:548852] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/644126A1-7DB6-4BC4-A045-F3BBBA3B89EE/Library/Cookies/Cookies.binarycookies
+2015-06-01 10:29:58.053 TodoApp[39547:548852] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 10:29:58.054 TodoApp[39547:548852] Multi-tasking -> Device: YES, App: YES
+2015-06-01 10:29:58.064 TodoApp[39547:548852] Unlimited access to network resources
+2015-06-01 10:29:58.070 TodoApp[39547:548852] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 10:29:58.640 TodoApp[39547:548852] Resetting plugins due to page load.
+2015-06-01 10:29:58.848 TodoApp[39547:548852] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/50D5BD76-A0FA-46D1-B25F-1416557A8B0F/TodoApp.app/www/index.html
+2015-06-01 10:38:05.127 TodoApp[43468:560735] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/0A39697E-2820-4291-BBC1-BDC274D9B14A/Library/Cookies/Cookies.binarycookies
+2015-06-01 10:38:05.203 TodoApp[43468:560735] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 10:38:05.203 TodoApp[43468:560735] Multi-tasking -> Device: YES, App: YES
+2015-06-01 10:38:05.204 TodoApp[43468:560735] Unlimited access to network resources
+2015-06-01 10:38:05.207 TodoApp[43468:560735] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 10:38:05.326 TodoApp[43468:560735] Resetting plugins due to page load.
+2015-06-01 10:38:05.459 TodoApp[43468:560735] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/1E806B38-7BFC-41D1-9E39-889B74507324/TodoApp.app/www/index.html
+2015-06-01 10:48:37.627 TodoApp[47920:574580] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/4D4A2B82-C49A-439E-9AB4-69F4E91749F4/Library/Cookies/Cookies.binarycookies
+2015-06-01 10:48:37.677 TodoApp[47920:574580] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 10:48:37.677 TodoApp[47920:574580] Multi-tasking -> Device: YES, App: YES
+2015-06-01 10:48:37.678 TodoApp[47920:574580] Unlimited access to network resources
+2015-06-01 10:48:37.680 TodoApp[47920:574580] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 10:48:37.774 TodoApp[47920:574580] Resetting plugins due to page load.
+2015-06-01 10:48:37.895 TodoApp[47920:574580] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/27B0583F-1169-44AF-B7CB-EC64211B3EC7/TodoApp.app/www/index.html
+2015-06-01 10:57:32.212 TodoApp[52034:587881] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/A302B90E-590A-4195-B1A4-6F43F08C94AA/Library/Cookies/Cookies.binarycookies
+2015-06-01 10:57:32.254 TodoApp[52034:587881] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 10:57:32.254 TodoApp[52034:587881] Multi-tasking -> Device: YES, App: YES
+2015-06-01 10:57:32.255 TodoApp[52034:587881] Unlimited access to network resources
+2015-06-01 10:57:32.257 TodoApp[52034:587881] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 10:57:32.340 TodoApp[52034:587881] Resetting plugins due to page load.
+2015-06-01 10:57:32.446 TodoApp[52034:587881] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/7B818C50-F2B2-4F6C-9870-D237EF2479BD/TodoApp.app/www/index.html
+2015-06-01 10:59:02.553 TodoApp[52034:589971] Terminating since there is no system app.
+2015-06-01 11:00:29.095 TodoApp[53693:593070] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/D70718DF-58E6-4EF4-9C51-E8475F551681/Library/Cookies/Cookies.binarycookies
+2015-06-01 11:00:29.168 TodoApp[53693:593070] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 11:00:29.168 TodoApp[53693:593070] Multi-tasking -> Device: YES, App: YES
+2015-06-01 11:00:29.169 TodoApp[53693:593070] Unlimited access to network resources
+2015-06-01 11:00:29.171 TodoApp[53693:593070] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 11:00:29.278 TodoApp[53693:593070] Resetting plugins due to page load.
+2015-06-01 11:00:29.412 TodoApp[53693:593070] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/2AC42F8E-0563-4B82-B92D-B98FF8A3DC04/TodoApp.app/www/index.html
+2015-06-01 11:05:52.636 TodoApp[56679:602390] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/CBA0A69D-483A-472E-AC31-882094C36570/Library/Cookies/Cookies.binarycookies
+2015-06-01 11:05:52.725 TodoApp[56679:602390] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 11:05:52.725 TodoApp[56679:602390] Multi-tasking -> Device: YES, App: YES
+2015-06-01 11:05:52.726 TodoApp[56679:602390] Unlimited access to network resources
+2015-06-01 11:05:52.728 TodoApp[56679:602390] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 11:05:52.835 TodoApp[56679:602390] Resetting plugins due to page load.
+2015-06-01 11:05:52.964 TodoApp[56679:602390] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/7A6D2E94-6A13-4A2A-9356-81427D63BEE8/TodoApp.app/www/index.html
+2015-06-01 11:08:56.583 TodoApp[58887:608500] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/DBB23938-EED7-46ED-BCD7-C89292036A70/Library/Cookies/Cookies.binarycookies
+2015-06-01 11:08:56.653 TodoApp[58887:608500] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 11:08:56.653 TodoApp[58887:608500] Multi-tasking -> Device: YES, App: YES
+2015-06-01 11:08:56.655 TodoApp[58887:608500] Unlimited access to network resources
+2015-06-01 11:08:56.657 TodoApp[58887:608500] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 11:08:56.766 TodoApp[58887:608500] Resetting plugins due to page load.
+2015-06-01 11:08:56.904 TodoApp[58887:608500] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/57BD3725-2080-4A80-9FFB-6790E6ABE73A/TodoApp.app/www/index.html
+2015-06-01 11:09:25.917 TodoApp[58887:608783] Terminating since there is no system app.
+2015-06-01 11:11:20.718 TodoApp[60904:613483] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/B7A2EC93-E035-4F3F-A630-7CBE5F03F7B1/Library/Cookies/Cookies.binarycookies
+2015-06-01 11:11:20.795 TodoApp[60904:613483] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 11:11:20.795 TodoApp[60904:613483] Multi-tasking -> Device: YES, App: YES
+2015-06-01 11:11:20.797 TodoApp[60904:613483] Unlimited access to network resources
+2015-06-01 11:11:20.798 TodoApp[60904:613483] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 11:11:20.894 TodoApp[60904:613483] Resetting plugins due to page load.
+2015-06-01 11:11:21.011 TodoApp[60904:613483] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/FC55A12C-90E1-47E2-BACC-C2182E8A4445/TodoApp.app/www/index.html
+2015-06-01 11:15:09.223 TodoApp[63412:627688] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Data/Application/6C0EB216-1728-4E57-92FE-D95A60FE0279/Library/Cookies/Cookies.binarycookies
+2015-06-01 11:15:09.302 TodoApp[63412:627688] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-01 11:15:09.302 TodoApp[63412:627688] Multi-tasking -> Device: YES, App: YES
+2015-06-01 11:15:09.304 TodoApp[63412:627688] Unlimited access to network resources
+2015-06-01 11:15:09.306 TodoApp[63412:627688] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-01 11:15:09.427 TodoApp[63412:627688] Resetting plugins due to page load.
+2015-06-01 11:15:09.560 TodoApp[63412:627688] Finished load of: file:///Users/danielsauble/Library/Developer/CoreSimulator/Devices/EDBAB22C-513F-4394-80E3-0C794C0885C3/data/Containers/Bundle/Application/D3E76651-AED9-4976-B291-BB6B56D31284/TodoApp.app/www/index.html
